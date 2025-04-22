@@ -1,0 +1,5 @@
+print("whats ur fav team")
+answer = str(input())
+print("Go " + answer + "!")
+print("Go " + answer + "!")
+print("Go " + answer + "!")
