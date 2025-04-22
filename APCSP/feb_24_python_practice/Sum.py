@@ -1,5 +1,0 @@
-print('first num')
-input1 = float(input())
-print('second num')
-input2 = float(input())
-print('total is ' + str(input1 + input2))
